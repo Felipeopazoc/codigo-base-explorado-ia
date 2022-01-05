@@ -1,0 +1,10 @@
+Main.class
+mundo_virtual\Entidad.class
+mundo_virtual\VentanaPrincipal.class
+mundo_virtual\MundoVirtual.class
+mundo_virtual\Constantes.class
+mundo_virtual\Adversario.class
+mundo_virtual\Celda.class
+mundo_virtual\Escenario.class
+inteligencia\Estado.class
+inteligencia\BusquedaAnchura.class
